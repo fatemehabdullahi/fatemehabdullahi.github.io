@@ -9,6 +9,7 @@ comments: false
 ---
 
 
-* [BJJ](http://www.bjjheros.com/)
+* [Listening to music](http://open.spotify.com)
+* [Watching movies](http://digimovies54.pw)
 
 

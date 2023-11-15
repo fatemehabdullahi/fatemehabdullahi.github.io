@@ -29,9 +29,9 @@ gallery:
     title: "دانشگاه"  
     - url: /assets/images/photo_13.jpg
     image_path: /assets/images/photo_13.jpg
-    alt: "placeholder image 4"
+    alt: "placeholder image 6"
     title: "کتابخانه"  
 ---
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery caption="This is **my gallery** :> ." %}
 

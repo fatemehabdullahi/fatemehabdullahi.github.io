@@ -9,7 +9,11 @@ title: درباره موسیقی
 ## خواننده های مورد علاقه من
 
 ![alt text](../assets/images/arcticmonkeys.webp "Arctic Monkeys")
+
 ![alt text](../assets/images/lanadelrey.jpg "Lana Del Rey")
+
 ![alt text](../assets/images/jacksonwang.jpg "Jackson Wang")
+
 ![alt text](../assets/images/ghostlykisses.jpg "Ghostly Kisses")
+
 ![alt text](../assets/images/isakdanielson.jpeg "Isak Danielson")

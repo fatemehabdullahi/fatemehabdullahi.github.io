@@ -7,7 +7,9 @@ title: My favorite fractals
 
 
 ![alt text](../assets/images/forest.png "Jungle")
+
 ![alt text](../assets/images/triangle.jpeg.png "Triangle")
+
 ![alt text](../assets/images/square.png "Square")
 
 

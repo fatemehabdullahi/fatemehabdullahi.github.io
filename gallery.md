@@ -7,10 +7,10 @@ tags: [gallery]
 modified: 9-14-2019
 comments: false
 gallery:
-  - url: /assets/images/photo_11.jpg
-    image_path: /assets/images/photo_11.jpg
-    alt: "placeholder image photo_11.jpg"
-    title: "گوربه"
+  - url: /assets/images/photo_15.jpg
+    image_path: /assets/images/photo_15.jpg
+    alt: "placeholder image photo_15.jpg"
+    title: "دانشگاه"  
   - url: /assets/images/photo_18.jpg
     image_path: /assets/images/photo_18.jpg
     alt: "placeholder image photo_18.jpg"
@@ -23,10 +23,11 @@ gallery:
     image_path: /assets/images/photo_16.jpg
     alt: "placeholder image photo_16.jpg"
     title: "گوربه ناز نازی"
-  - url: /assets/images/photo_15.jpg
-    image_path: /assets/images/photo_15.jpg
-    alt: "placeholder image photo_15.jpg"
-    title: "دانشگاه"  
+  - url: /assets/images/photo_19.jpg
+    image_path: /assets/images/photo_19.jpg
+    alt: "placeholder image photo_19.jpg"
+    title: "گوربه"
+  
 ---
 
 {% include gallery caption="This is **my gallery** :> " %}

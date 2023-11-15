@@ -7,26 +7,30 @@ tags: [gallery]
 modified: 9-14-2019
 comments: false
 gallery:
-  - url: /assets/images/1.jpg
-    image_path: /assets/images/1.jpg
+  - url: /assets/images/photo_11.jpg
+    image_path: /assets/images/photo_11.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /assets/images/2.jpg
-    image_path: /assets/images/2.jpg
+    title: "گوربه"
+  - url: /assets/images/photo_18.jpg
+    image_path: /assets/images/photo_18.jpg
     alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/3.jpg
-    image_path: /assets/images/3.jpg
+    title: "خانه ملاباشی"
+  - url: /assets/images/photo_14.jpg
+    image_path: /assets/images/photo_14.jpg
     alt: "placeholder image 3"
-    title: "Image 3 title caption"  
-  - url: /assets/images/4.jpg
-    image_path: /assets/images/4.jpg
+    title: "کافه"  
+  - url: /assets/images/photo_16.jpg
+    image_path: /assets/images/photo_16.jpg
     alt: "placeholder image 4"
-    title: "Image 4 title caption"
-  - url: /assets/images/5.jpg
-    image_path: /assets/images/5.jpg
+    title: "گوربه ناز نازی"
+  - url: /assets/images/photo_15.jpg
+    image_path: /assets/images/photo_15.jpg
     alt: "placeholder image 5"
-    title: "Image 5 title caption"    
+    title: "دانشگاه"  
+    - url: /assets/images/photo_13.jpg
+    image_path: /assets/images/photo_13.jpg
+    alt: "placeholder image 4"
+    title: "کتابخانه"  
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}

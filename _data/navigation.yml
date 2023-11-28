@@ -2,8 +2,6 @@
 main:
   - title: "Calendar"
     url: /schoolcalendar/
-  - title: "Courses"
-    url: /courses/
   - title: "Friends"
     url: /friends/
   - title: "Links"

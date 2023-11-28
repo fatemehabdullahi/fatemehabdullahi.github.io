@@ -27,6 +27,10 @@ gallery:
     image_path: /assets/images/photo_19.jpg
     alt: "placeholder image photo_19.jpg"
     title: "گوربه"
+  - url: /assets/images/5.1.jpg
+    image_path: /assets/images/5.1.jpg
+    alt: "placeholder image 5.1.jpg"
+    title: "جنگ"
   
 ---
 
